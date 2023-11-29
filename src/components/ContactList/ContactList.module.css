@@ -9,6 +9,7 @@
   background-color: azure;
   font-weight: 600;
   font-style: italic;
+  row-gap: 10px;
 }
 .emptyList {
   border: none;
@@ -18,7 +19,6 @@
   flex-direction: row;
   column-gap: 40px;
   align-items: center;
-  margin-bottom: 10px;
 }
 .deleteButton {
   font-size: 10px;
